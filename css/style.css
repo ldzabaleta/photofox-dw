@@ -327,9 +327,9 @@ iframe{
   height: 100%;
   object-fit: cover;
   opacity: .6;
-  transition: transform 1.9s;
+  transition: transform 1.8s;
  }
 .image:hover .image__zoom {
-  transform: scale(1.04);
+  transform: scale(1.06);
 }
 
